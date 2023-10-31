@@ -7,12 +7,19 @@ simple website with frontend and backend linked with mongodb using nodejs
 NOTE : NodeJS must be preinstalled !!!
 
 To run project steps followed :
+
 step 1: extract zip file after download and open terminal in that folder 
+
 step 2: npm init
+
 step 3: npm install express body-parser
+
 step 4: node index
+
 step 5: open one more terminal and give commond "node delete"
+
 step 6: goto browser and type "localhost:3000"
+
 WEBSITE is Live now
 
 ![Screenshot 2023-10-23 084114](https://github.com/Tejas9523/society_sphere/assets/112255875/2549418d-bae1-4b14-9ef7-3119de58e58a)
